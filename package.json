@@ -1,12 +1,12 @@
 {
-  "name": "promise-socket",
-  "version": "7.0.0",
+  "name": "@nfogh/promise-socket",
+  "version": "7.0.1",
   "description": "Return promise for socket stream",
   "main": "lib/promise-socket.js",
   "typings": "lib/promise-socket.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dex4er/js-promise-socket"
+    "url": "https://github.com/nfogh/js-promise-socket"
   },
   "keywords": [
     "promise",
@@ -14,11 +14,12 @@
     "stream"
   ],
   "author": "Piotr Roszatycki",
+  "contributors": ["Nikolaj Fogh"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dex4er/js-promise-socket/issues"
+    "url": "https://github.com/nfogh/js-promise-socket/issues"
   },
-  "homepage": "http://github.com/dex4er/js-promise-socket",
+  "homepage": "http://github.com/nfogh/js-promise-socket",
   "engines": {
     "node": ">=10.0.0"
   },
